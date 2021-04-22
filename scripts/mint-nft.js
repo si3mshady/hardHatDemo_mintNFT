@@ -39,7 +39,12 @@ async function mintNFT(tokenURI) {
     console.log(" Promise failed:", err);
   });
 }
+// mint is deploy a new instance of smart contract 
 mintNFT("https://gateway.pinata.cloud/ipfs/QmRKfAGD4vkn7LLsFTp1ZpMhb8TqvtDaHx1EtzXExiidBR")
 
-
+// https://gateway.pinata.cloud/ipfs/QmWYG4GWrayxkABoWEgzqewTV4KVDdSjyUmL9Ube8iwWzg
+// https://gateway.pinata.cloud/ipfs/QmUnmDrSPdY7EAqZDjoXn8DGc9emsmHEqoecvaPxyZS4Y2
+// https://gateway.pinata.cloud/ipfs/QmPhr4Z2Fc37ZCJcnETrLeJUMudAbCQKzd1NHZwS8XtDAg
+// https://gateway.pinata.cloud/ipfs/QmUNXUkDgup39oeEHf9ERwoDh7wEaiHsy8DeGnw8aRvwpM
+// https://gateway.pinata.cloud/ipfs/QmcYeDXqGqMEYvxw5dMXVkVJfU1Kzxo3BNWgdPAhhSg5jS
 

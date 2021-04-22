@@ -4,7 +4,7 @@
 
 require('dotenv').config(); 
 require("@nomiclabs/hardhat-ethers"); 
-
+// https://web3js.readthedocs.io/en/v1.2.11/web3-eth-contract.html
 const{API_URL,PRIVATE_KEY}=process.env;
 
 module.exports={
